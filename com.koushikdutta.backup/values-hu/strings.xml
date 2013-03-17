@@ -161,4 +161,17 @@
     <string name="password_or_pin">Jelszó vagy PIN</string>
     <string name="device_encryption_password">Eszköz titkosítás jelszó</string>
     <string name="device_encryption_password_summary">Állítsd be a titkosítás jelszavát vagy a Desktop Backup által az eszközön használt jelszót.</string>
+    <string name="continue_automatically">A következő alkalommal folytatás automatikusan</string>
+    <string name="app_downloads_required">Helyreállítás előtt előbb a Google Play áruházból le kell töltened a(z) %s alkalmazást.\n\nBökj a pipa nélküli alkalmazásokra a Google Play-re ugráshoz.</string>
+    <string name="backup_enter_encryption_password">Az Android titkosítva van. A biztonsági mentéshez add meg a jelszót vagy PIN kódot.</string>
+    <string name="restore_enter_encryption_password">Az Android titkosítva van. A helyreállításhoz add meg a jelszót vagy PIN kódot.</string>
+    <string name="logging_into_dropbox">Belépés a Dropboxba...</string>
+    <string name="internal_storage">Belső tárhely</string>
+    <string name="restore_internal_storage_summary">Alkalmazások helyreállítása a belső tárhelyről a(z) %s eszközön.</string>
+    <string name="shared_storage">Megosztott %s tárhely</string>
+    <string name="wifi_not_connected">Az időzített mentéshez nem áll rendelkezésre Wi-Fi kapcsolat.</string>
+    <string name="not_charging">Az eszköz nincs töltőre csatlakoztatva, ezért az időzített mentés meghiúsult.</string>
+    <string name="backup_complete_errors_more">A mentés közben hiba történt. Bökj a mentésre a többi alkalmazás mentésének folytatásához.</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="wifi_summary">Wi-Fi hálózati kapcsolat beállítások</string>
 </resources>
